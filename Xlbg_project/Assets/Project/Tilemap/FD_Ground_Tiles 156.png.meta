@@ -1,0 +1,6089 @@
+fileFormatVersion: 2
+guid: 9f526187887a261498da9a0c7c3e2ee8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ab17c8025831f4081dccd0ca5d807d
+      internalID: -1915167449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c56bf940fc2e440abe3afec0cd45b1
+      internalID: -1388172173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3624b778445354843941329353bd3e73
+      internalID: 1298749777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb69b575f09dd74392cf65c7711523e
+      internalID: -1354961660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87aa53cddbac4ed49970e6ba9ed6abe8
+      internalID: 1911677425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b96fd1b20e568247911d6d609b0525b
+      internalID: 498018910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dd32f86c81b074da3ac05266711248
+      internalID: 1120047291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2596ddcc318f2f643bfee172143cacff
+      internalID: 2066958751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0aaf6203acd834dbd964d992b4ae4b
+      internalID: 12551775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb25aacb8a6e81a4aa12457c737cb0f1
+      internalID: -707126959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268c059c60bd4ae469ef319ed05ee1e3
+      internalID: 1547860639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 664
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb0485b39336384fb82a2988a935e03
+      internalID: -538295594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 664
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc1371385d17d84987fcfb8337a3280
+      internalID: -2049391375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defb711c0ea0f614497b4df7a6ee3fb9
+      internalID: -1536150617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 664
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaa6eb62884f9c458095766e8b0e99b
+      internalID: -308734888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 664
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492a53d09059336409c7304e2c845ee6
+      internalID: 2075013287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 680
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe67c9392947b84bb5076498732344c
+      internalID: -2118080137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 664
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba06837631fe9b40af6ba54fc1927ba
+      internalID: -1729275230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 664
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb835630e5b78b409abdbc64cd468e5
+      internalID: 815090021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 679
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfd8fec5b13dd445a57c2c5721cff6f
+      internalID: 1325976345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 663
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75aa414814211f14bb51bf946e22120b
+      internalID: -1321795549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 663
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5d4941240073642bdd83d2f35cb28d
+      internalID: 2132482761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_22
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 679
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c827e15feaf50b46a47a83cd44fe5de
+      internalID: -1182014697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_23
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 663
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c40c0826c29b2479e6c4c3d8933739
+      internalID: -817789052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 663
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae18a7a8aee0b4949b4e9662efbbd25b
+      internalID: -143479069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_25
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 670
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b0f6a452da4be4caf22442749c3a36
+      internalID: -1738125618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_26
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 670
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296b148cd1e39f44fa19c1d8c1eed03e
+      internalID: -648907576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_27
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 670
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef9fb5ebab771949a7b555f70265c0b
+      internalID: 1068372471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_28
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 681
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b026f292c87fe943b902907bb728799
+      internalID: -834920639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_29
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 666
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdf2f8efcf09e944935296f94c64463
+      internalID: 208295710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_30
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 666
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493304e8ecdec844cacc8a456d618667
+      internalID: -2119022784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_31
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 681
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fa84b7849f86d4197b1af663929384
+      internalID: -1398585281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_32
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 666
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e44324ead7cbf48b466b267d02e37e
+      internalID: 1512132783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_33
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 666
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17c4306b7c355e49af079e737cfef47
+      internalID: -726668951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 656
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498af0df712bc344ca6014146cf7ff5d
+      internalID: 351994585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_35
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 656
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368e04959509dc34ea72138edb795a60
+      internalID: 1095132789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 656
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce577462e561f44e91fbe6519f35359
+      internalID: 755769451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_37
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 656
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4262fa8c563188e46977dc12ef850c3b
+      internalID: 1693925265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 656
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7067a92806d764496f166bed6c92b0
+      internalID: -543737388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_39
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 656
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e480233d2f140941b0f7b579baae9f0
+      internalID: 1114876238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 656
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df591880642ea5046b2f7032764e672a
+      internalID: -529720186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_41
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 656
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8423b015968932b4f81e872e6fcaa6e6
+      internalID: -1033077460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 656
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c99a1388ac19be4bb82dd6d13514a38
+      internalID: -402876148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_43
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 656
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ae939c3b535fa4aacc6012db83102e
+      internalID: -1732961929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 592
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4776543942e754893d9530d7759228
+      internalID: 254275873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_45
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 592
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222ad78b1a574df4b82032008e158f2d
+      internalID: -100837972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 592
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0615fe9a4940340972d33bccd9ff07
+      internalID: -519799482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_47
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 656
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db6bbcce06e3b94c9f3f0af60f54fee
+      internalID: 51854894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_48
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 656
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b49e363469e6d540baf48e3f486b23f
+      internalID: -269353277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_49
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 656
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa0b33ef9d51234ba024b2ca0da30ef
+      internalID: 288475776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_50
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 656
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d8dd75a5ff5dd4f94ca5ee29693004
+      internalID: -604406322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 592
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ecb815c0f08d54395c05cb6f45fd44
+      internalID: 1500693444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 592
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31d66432302b3c448dccde714beec22
+      internalID: 1325417851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 592
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9514de54a442b944b8cdaa7fc4915c20
+      internalID: 525085732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 592
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9db143753d04df49b50af9969fa3d46
+      internalID: -1594680166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_55
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 592
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0145072f428cc5e488ce5e9a5bf457e3
+      internalID: 320280649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 592
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a511e365df43dd241a63cc358b159461
+      internalID: -306016734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_57
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 592
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765b83dfbfd0b314f8661908d1b516fb
+      internalID: -670390242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_58
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 552
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e897966a6cb024c99bfbc0ded70cf3
+      internalID: -401993104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_59
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 536
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0753487cde50df14e83719b2bcfbc3d6
+      internalID: 513112064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 536
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba0e023b5ce72847b2e92bd37439a36
+      internalID: -2070319366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_61
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 552
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086568248746cdb41b35967d8e5b2d27
+      internalID: 395805565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_62
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 536
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea7245c56b9b9147af813f2385762b6
+      internalID: 1941039307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 536
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f87e7fd558bcf4b848dca62dc1d613
+      internalID: -266031631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_64
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 552
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d2687fa76febf4f989e12f26347fb6
+      internalID: -2019354546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_65
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 536
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecbbdcef50210f4dbbda531c6093c00
+      internalID: -1810901396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_66
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 536
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad21121c2dd5e2d4abba7bc372573d89
+      internalID: 454566677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_67
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 551
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a93068217dfb74290773c92071b092
+      internalID: 1532047958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_68
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 535
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b446e91d4211844aa859040ffafa7c
+      internalID: 1771050251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_69
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 535
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f0593f3ba04df46880bb814ea0e54c
+      internalID: -1300522789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_70
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 551
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258f38cd8df16a44c98a3df1cf177edd
+      internalID: 1651418914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_71
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 535
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115a702bf308e5f40a7a4f5cc85242e9
+      internalID: 989162782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_72
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 535
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebc0bc26de0328448e95e857978d83b
+      internalID: -1238972975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_73
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 542
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b4ea0eb0254484297620928ea22a14
+      internalID: -167420423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_74
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 542
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a03c8569e0db6a48893939c78436b10
+      internalID: -775411843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_75
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 542
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34610400095a284396580e304e4d17f
+      internalID: 2077351065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_76
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 553
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b1e76530def054c9ff1f10937b8857
+      internalID: -1354234177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_77
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 538
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a9165d4370f364ba62b0cfe43ffa6f
+      internalID: -504962794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_78
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 538
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0293d0dfbf7610b4a95e9d0522468aca
+      internalID: -967092893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_79
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 553
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa7e4eab75598740b001f86af8607a7
+      internalID: 351237124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_80
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 538
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbed25b2cc139f4d99eb0539b886176
+      internalID: 368720365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_81
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 538
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c34afc3f4910a479aa8a7c013b60f4
+      internalID: 2061283708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6252ee33f618b1b498ba5ca4182bbfd7
+      internalID: -1319044299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_83
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 528
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bb61953b1078444bd1000d85728587
+      internalID: 1146221141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 528
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59140db4649c95846ab01a150fc131f4
+      internalID: -398022759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_85
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 528
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d0b8de46945aa46ae79555982ff35a
+      internalID: -137242473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 528
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94391c8185998b544b792d4878ba09ea
+      internalID: -1991554658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_87
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 528
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f9bbbf17315ee41bc540ba385a461f
+      internalID: 443661034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 528
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd90da31759bc8848a96d176d9ae7904
+      internalID: -1199883279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_89
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 528
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a221d5ea6447b694897f75fb2f686791
+      internalID: 608901358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_90
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 528
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5700ea7097ecb184db37c18ee0fc63ce
+      internalID: -1926533793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_91
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 528
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ff051a91cd35e45b64316f7609e2f4
+      internalID: 1090907207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 464
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4a508ecda6e744ba14707f3701a6ef
+      internalID: 27548288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 464
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29a7c2a8e1300943959b9e162a2b10b
+      internalID: 90168192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 464
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d16df3ee1f5b744f8fbceed012a2b89
+      internalID: -196166376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 528
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356631ff9606b37458ab2b1e37cdfebe
+      internalID: 946261524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_96
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 528
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c824d03e1e37ba449aa2812f6eef82d8
+      internalID: -1078587178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_97
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 528
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f813301763baf9946b91af4593625e93
+      internalID: -113427166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_98
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 528
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68bfca16fcb4e34c9eb1b6e60db7f91
+      internalID: 1366892800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f413de60e1fd8ff4f85e283d28ef737b
+      internalID: -354058756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 464
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327d72e8cc38e324b9376f37b1c804d5
+      internalID: 1008669983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_101
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 464
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b9c3cec04b701429def876867faf29
+      internalID: -801516542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 464
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb6dc7dcc66410428ab2580968f5b02
+      internalID: 132618101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_103
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 464
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b433522c9b62eec40a1fa3c2d8f0dd4a
+      internalID: -1166627637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_104
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 464
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34becd1ce4e85a4a98e029e47af3fcc
+      internalID: 635863323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_105
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 464
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b893243042236d448be71e0b9e1a4bf
+      internalID: 1935639294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_106
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 424
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f063328290e0d4ea4d6fbf5cf7f8fd
+      internalID: 577181958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_107
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 408
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8f6cc239d23a14b81a32b7380f1ce2
+      internalID: -664882123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_108
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 408
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a322735d127d5048b91f731aa3d4050
+      internalID: 352863490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_109
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 424
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6aa16aa124529d4d86ae1af94dd855a
+      internalID: -940805589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_110
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 408
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0f4dd5a47d11c47b952ad402942b96
+      internalID: 1421669719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_111
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 408
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb57df8ab9e0c94aa18647287d854de
+      internalID: 221083834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_112
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 424
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be0d8c13e79c7647a31d98061c09f3d
+      internalID: -1323424624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_113
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 408
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a44525d163abd4c98d11fde7b31d0d
+      internalID: -873107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_114
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 408
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88fbae363164d94dba76556962c1e9d
+      internalID: -108779526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_115
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 423
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbec3d8de5c9774ebff393790a26030
+      internalID: 450517973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_116
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 407
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6840d535ca1e5af499ccdbe1dd5d6141
+      internalID: 501647194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_117
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 407
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea6410d8d676ba49b7f6afcd66ff175
+      internalID: 336067958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_118
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 423
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fc054c33fec9c41aec916a6b1de01d
+      internalID: -1924874995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_119
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 407
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77114bb0f626bd8448b6133b102f6fa0
+      internalID: 451641809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_120
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 407
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1288b163d3991b429e1fb47e4bdecc0
+      internalID: -793234332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_121
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 414
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2995e1e5b276ccc41ac7a4ca05f42284
+      internalID: -194637780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_122
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 414
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec1e1b6b3e076e4d9cfc9897fc4e0c4
+      internalID: 1767970613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_123
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 414
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9c93189770e1e4fa455bc2f4d68bb1
+      internalID: -590376760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_124
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 425
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3fb83d8ef80a34fa9f19d9196b338f
+      internalID: -1898007457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_125
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 410
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aedc0aa942291d478969b4b955db1be
+      internalID: 90038574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_126
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 410
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1027a4bb1f76d4caaf58e8ae178054
+      internalID: -2091499926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_127
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 425
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c47ecb0570bf1340938d0f573721a1c
+      internalID: -799203884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_128
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 410
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4cffa1b44d85348babeb23a20da013
+      internalID: -877772653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_129
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 410
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19883443facc1d44bd7d701f1966504
+      internalID: 506693339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4da3aff47551b4282a80cb46728520
+      internalID: 1431043572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_131
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 400
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23e3df82902a1a448a0c923f077d58c
+      internalID: -592058634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_132
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 400
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b7def250ee84c40ada2d79d5cc3b2f
+      internalID: 1604070403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_133
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 400
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0a4fd7a78090943b3c4ad72df48e6f
+      internalID: 1278651463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_134
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 400
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa545763664b6246ac41f323211aa41
+      internalID: 1184002986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_135
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 400
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1045d273fa8bd47904adcada4aa811
+      internalID: -481416090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 400
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07edca762fc39d4da006885db5227d5
+      internalID: 2051936408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_137
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 400
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37834bcde0d4c4c4698521b5a3a6285f
+      internalID: 1219417805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_138
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 400
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c59b6beea65f574e8b2f3dd6d62ce32
+      internalID: -1935972114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_139
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 400
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c759d57578c425d49ac89ee3d1fdf369
+      internalID: 1098026547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_140
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 336
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb834fe75760324b8292b4056f846b2
+      internalID: 224171341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_141
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 336
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f046ad52a2a294c9552702a114629a
+      internalID: -268642453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_142
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 336
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57d99543e8f75042b429bcdeab371af
+      internalID: -249722226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_143
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 400
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f1bc671eb83ac43bab7642af518b05
+      internalID: -1771521010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_144
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 400
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0af0e874e40e4946935168777bfb958
+      internalID: -346881489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_145
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 400
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa39357ea19bf941bcd472d14559beb
+      internalID: -1066371244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_146
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 400
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0757bb2bb176e4593f1224dd4ae3e0
+      internalID: 305891432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d940f2fc6ab5b8142ab7a4e0535bb9c5
+      internalID: 469188616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_148
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9497520b50c3d4286a44fba9d05a8a
+      internalID: 2041775601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_149
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203fbf916b76f554291c5b3f6fbfd061
+      internalID: 24132256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcff470823211e44b80a810a13e21901
+      internalID: 1897925275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_151
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f28a77286d68545b6742a135d83c5e
+      internalID: -379782227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_152
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb22017ac3ef884695b36bdd4a6cab7
+      internalID: 1566554899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_153
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603e86bc93b34514c97c1cde15c295f6
+      internalID: -46698502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_154
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ddf00abf64635409caaee1598fce15
+      internalID: -1199135789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_155
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 280
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538e4067e7a3b55439a2309f1a87d9ce
+      internalID: 73265265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_156
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 280
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a04491ea36f3a408c612c900b5bb19
+      internalID: -651082362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_157
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce236890cc7eddc4a9a73a64d3d8d908
+      internalID: 1619707871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_158
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 280
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b2bf24b1f9fc8489dd1f1024a73604
+      internalID: 1920632401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_159
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 280
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b194d1e280de5ea4e9ca71cd4ad8cdc5
+      internalID: -1640255915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_160
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be92b66dbc9ef44ea0ab562e76279c0
+      internalID: -837829187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_161
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 280
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefb1a4051127cc459eb068439741b0f
+      internalID: 1556217532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_162
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 280
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb06c92efb630b47a4c53d3428c9208
+      internalID: -177048474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_163
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 295
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455f358f759894444864b3f6048b4177
+      internalID: 991909271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_164
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 279
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abb770c64a0a3a47a146d85d952aa80
+      internalID: 216190194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_165
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 279
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb7f7aba4b9bc042a3e1282fc3fe5fd
+      internalID: 1100443381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_166
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 295
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ab8b4ab0bc5c64dab6bbc4df7c5e8f
+      internalID: -1543574444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_167
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 279
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d57ef092bc52f41b9c8e51780ae376
+      internalID: 313130319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_168
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 279
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f08ab353f460bf428812b9b98ec95be
+      internalID: -566689636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_169
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 286
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a51f9aa5a94b5458eafc6e67722619
+      internalID: -729177970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_170
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 286
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24db5568110e274bb21f488c7bf5761
+      internalID: 1328921292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_171
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 286
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bb26c512c9c804b9fc5541e604bbda
+      internalID: -17501716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_172
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 297
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9b8afed2bc0974e9b056baf3060f26
+      internalID: -703165695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_173
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 282
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac4cc270882be2438231825da45a716
+      internalID: -1597336121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_174
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 282
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c70c8970515fa4995153b8ecde0a8f
+      internalID: 75129219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_175
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 297
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e811a654d3761d841a6ff91207b9c0cc
+      internalID: 986882470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_176
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 282
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b8b243eef1bbe488ebfb9cb2c9cd0e
+      internalID: -1193052308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_177
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 282
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf187bd49c4de204b8bf5afad802fb04
+      internalID: 1659819855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_178
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a29effe3a9cd24c9f507da4e72b49d
+      internalID: 1436737154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_179
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 272
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e66e9500ca72d48afe7c31decc8d6f
+      internalID: 765230630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_180
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 272
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bec83e9bef85a4f88761c3fa9d36e1
+      internalID: -1417181473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_181
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 272
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58de80f62f40c9b4cb9785941b9659bb
+      internalID: -1040934370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_182
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 272
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ca2822871f4ea4c8121871a6ea6567
+      internalID: 237732973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_183
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 272
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4c0bf07d6904546ac8c0bb6e1ea05c
+      internalID: 1822261006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_184
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 272
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfe5660d2b52a6408c082195158db2b
+      internalID: -357391521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_185
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 272
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6d193b08eb1704d9bb5d591d0c0809
+      internalID: 127085907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_186
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 272
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c9d4fe118259a48b1c2ccabda4360a
+      internalID: 2086342976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_187
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 272
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a52817a96db3e84b8dfc2ec12b0ed66
+      internalID: 1357702354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_188
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 208
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f917bb2dda908c042b516cc27829d099
+      internalID: 246125059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_189
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 208
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f476ddc47c4dc08428039fde12b5dd62
+      internalID: 1171779679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_190
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 208
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e994fddfcf34bc04bb05ed5c5a2ed885
+      internalID: 1556977488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_191
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 272
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78be3d5924af31a41936863660423c77
+      internalID: -1955601086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_192
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 272
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6a554b70954ff43b411db56e0cb0f7
+      internalID: -2113117279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_193
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 272
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5c381dd5a07a3439704a0e75a70cde
+      internalID: 977238412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_194
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 272
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12415f59f0f691488c9514dcd0b2336
+      internalID: 975180990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b42308e41254f4299cca4d9a376216
+      internalID: 1672722479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_196
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c05f1de5de93845b2c3b68f23a9041
+      internalID: 197821885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_197
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd60343a019a7f24aaf75c7de44ac443
+      internalID: 531078269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_198
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4850b3c01907647b8be3c5c0f0542e
+      internalID: 1311940115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_199
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e45f3976d16d04ab07cf0ee6a35b64
+      internalID: -1302229454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_200
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe10aa91abc0a844bb2c5cad163130f0
+      internalID: -59611897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_201
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96461bc0c1c58942a75df33249ac0b5
+      internalID: -826296834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_202
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a28b39a7750ff4b849c7ae73ea316e
+      internalID: 999609966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_203
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 161
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf145341fad9a974f93e64c6f8f7b811
+      internalID: -608849524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_204
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 161
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1494e0a6ba786c419f39cae3869f2c5
+      internalID: 175120804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_205
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 169
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ea4be2887c3644eb9545ac8a770514
+      internalID: 607032106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_206
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 169
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5118964bd244f0547936c07b6bf87f94
+      internalID: 227149673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_207
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 169
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86318a53a1a04e84dab0aa0a3dacc365
+      internalID: -1091042936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_208
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 169
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580ae97b0831c1f439627bcd541c8b52
+      internalID: -1365748989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_209
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 169
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28944c6f288d3a941905c9a0d1da28cc
+      internalID: -1841610744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9224a9c08c2ccf045b615b06e0a02dbf
+      internalID: 521253906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_211
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e7731f62ee5b44a97d8a00cfe3c84f
+      internalID: 328605803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_212
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcc4e1b666ce754284437271b75176b
+      internalID: -764163764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_213
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3374ea8f872daa2429f5c017a55c3693
+      internalID: -620366809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_214
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a834f5d5258b3084c89590003a13567b
+      internalID: 1997812815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_215
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c7fadc9cbc3c14592ada86d0685f2a
+      internalID: 952211724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_216
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 154
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b2fcfd0b92ed744ad755b9c601e5d0
+      internalID: 1487701070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_217
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 154
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7fe9dbcb472e047853df20c0110ee8
+      internalID: -1155094691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_218
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 154
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cece12f6442229b4996200a0ab0da49f
+      internalID: -764920329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_219
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 154
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ae94de43d005e4087eade0ace1214e
+      internalID: 1024575855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_220
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 154
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83868bc5e7d1ab04096344532a6f631c
+      internalID: -2045904572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_221
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 154
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e91b6d7b6cc3b47b4477655a525219
+      internalID: 1083582561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_222
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 154
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d90701291982e641b962a91d0628284
+      internalID: -221714641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_223
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 154
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce03339664335834aba86c9054f613dd
+      internalID: -1960661651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_224
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 154
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedd8e46aaafadf46b649291a69e3d74
+      internalID: 554015650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_225
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 154
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cde509c06445740af5e1bae292c92b
+      internalID: -172308447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_226
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 144
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad9fc7bfcb65f446be0abebe59129b4
+      internalID: 1276245829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_227
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 144
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4289395cebc55564aa5773cd4503b3dd
+      internalID: -1570562948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_228
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed676f1d7197658488ea179e9767017d
+      internalID: 1034412264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_229
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 144
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ced3bcd4dd044478a7428fa86ac4b5
+      internalID: -522581399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_230
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 144
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6558ce0615defa44a32af8ccb78c493
+      internalID: 625929576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_231
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 144
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36687c142262ae94f9454ae20d94ed3a
+      internalID: 303313590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_232
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 144
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9a51ecc57947f418e5fd694231c94b
+      internalID: -603301949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_233
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 144
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d0573229676f445bd508e528caf494
+      internalID: 366210555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_234
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 144
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572ff5703c0cb3c4f813251b8b7f4c5a
+      internalID: -1323058183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_235
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 144
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4119b9b906eaf3c48bdcc49c3fcd90c8
+      internalID: -1137856945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_236
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40e0f2a86dc58047b249e5cbed05d6f
+      internalID: -589812041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_237
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03b93e003f5f694f92e3cc786251187
+      internalID: -354909702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_238
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8562c3d997f1baf43bad30d60494b2f2
+      internalID: 379630950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_239
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9417b520d79cfdc4bbcecff182f0f0df
+      internalID: 1573856351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_240
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45a9709e17c31045ad53533382348bf
+      internalID: 1976950191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_241
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1f2cb0e8adf2e4894452db14abe866
+      internalID: 783700900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_242
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 80
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8464b6bff9896c44b59a65ac7cf62b4
+      internalID: -679444188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_243
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 80
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdd50860572fff449a5aef9d63171ec
+      internalID: 533594741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_244
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 80
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31554ae919a10564f895f2de8645df52
+      internalID: -168082363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_245
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 80
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b33216d73efbcc4f9f5952b827879e9
+      internalID: -158595557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_246
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c963267bc89303340aa757e0aaf22c3d
+      internalID: 1872766186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_247
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 39
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94840d0075487e745a8eada537b95e1e
+      internalID: 731361312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_248
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f452e22aa663d644bab2fd3c4cb455f
+      internalID: 1564567650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_249
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47d551198123744aa2b3f9d77fb41eb
+      internalID: 1406243363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_250
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca379d11d4f70c4cacda401bf0c279c
+      internalID: -90330515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_251
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 39
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b132fb1b228ac40a89289a03a8b37d
+      internalID: -1624986149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_252
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace82db2609fc2e4396871af341e2dd0
+      internalID: -488729992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_253
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 16
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60458388af3bbc9469fb020bf30e96a5
+      internalID: 619417141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_254
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ca5a5f665746447bf0bb39e89db06c
+      internalID: 1310251187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_255
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 39
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6957656e754b5f44093688a144e2dd8c
+      internalID: -2020397531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_256
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1787adab93da57b47b386d959585e3dd
+      internalID: 1325294206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_257
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 16
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720e270bab974e341bafb15acbacaa2d
+      internalID: 1175916144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_258
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 16
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8bffb0f970e054192157db0ce92abd
+      internalID: 1763477490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_259
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 16
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe6f1054263dd3409896ca9fd3e6b0d
+      internalID: 1663749158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_260
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 16
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1366b796ca1f8744b56d5abb5d5f947
+      internalID: -1906727578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_261
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 16
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9501c3df0fbe25340b7317f9a3969480
+      internalID: -1397944585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_262
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 41
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef81c0c194ced242b6c0670e5ba12a5
+      internalID: -752885099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_263
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 26
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c397e4be9f34b064aa9338541ce8a610
+      internalID: 666715358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_264
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 26
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b431de6cdf06f48b055c06591cbbd9
+      internalID: 1625006010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_265
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a027bb08bb6af459bd6ff197336eaf
+      internalID: -1527412908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_266
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e02de809aa4ae9499fe325368d820e7
+      internalID: 1570424802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_267
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 41
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa69b77ecc81e6d4799d48869603ec75
+      internalID: 1881214733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_268
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 26
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0974cca8b89924a439850976b6710fc8
+      internalID: 541309943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_269
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 26
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cc41edbf1401c448211eb52f48c87a
+      internalID: 652525132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Ground_Tiles_270
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30ee67cf4ffc33479b619ef8174b1c9
+      internalID: 2110746375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FD_Ground_Tiles_0: -1915167449
+      FD_Ground_Tiles_1: -1388172173
+      FD_Ground_Tiles_10: 1547860639
+      FD_Ground_Tiles_100: 1008669983
+      FD_Ground_Tiles_101: -801516542
+      FD_Ground_Tiles_102: 132618101
+      FD_Ground_Tiles_103: -1166627637
+      FD_Ground_Tiles_104: 635863323
+      FD_Ground_Tiles_105: 1935639294
+      FD_Ground_Tiles_106: 577181958
+      FD_Ground_Tiles_107: -664882123
+      FD_Ground_Tiles_108: 352863490
+      FD_Ground_Tiles_109: -940805589
+      FD_Ground_Tiles_11: -538295594
+      FD_Ground_Tiles_110: 1421669719
+      FD_Ground_Tiles_111: 221083834
+      FD_Ground_Tiles_112: -1323424624
+      FD_Ground_Tiles_113: -873107
+      FD_Ground_Tiles_114: -108779526
+      FD_Ground_Tiles_115: 450517973
+      FD_Ground_Tiles_116: 501647194
+      FD_Ground_Tiles_117: 336067958
+      FD_Ground_Tiles_118: -1924874995
+      FD_Ground_Tiles_119: 451641809
+      FD_Ground_Tiles_12: -2049391375
+      FD_Ground_Tiles_120: -793234332
+      FD_Ground_Tiles_121: -194637780
+      FD_Ground_Tiles_122: 1767970613
+      FD_Ground_Tiles_123: -590376760
+      FD_Ground_Tiles_124: -1898007457
+      FD_Ground_Tiles_125: 90038574
+      FD_Ground_Tiles_126: -2091499926
+      FD_Ground_Tiles_127: -799203884
+      FD_Ground_Tiles_128: -877772653
+      FD_Ground_Tiles_129: 506693339
+      FD_Ground_Tiles_13: -1536150617
+      FD_Ground_Tiles_130: 1431043572
+      FD_Ground_Tiles_131: -592058634
+      FD_Ground_Tiles_132: 1604070403
+      FD_Ground_Tiles_133: 1278651463
+      FD_Ground_Tiles_134: 1184002986
+      FD_Ground_Tiles_135: -481416090
+      FD_Ground_Tiles_136: 2051936408
+      FD_Ground_Tiles_137: 1219417805
+      FD_Ground_Tiles_138: -1935972114
+      FD_Ground_Tiles_139: 1098026547
+      FD_Ground_Tiles_14: -308734888
+      FD_Ground_Tiles_140: 224171341
+      FD_Ground_Tiles_141: -268642453
+      FD_Ground_Tiles_142: -249722226
+      FD_Ground_Tiles_143: -1771521010
+      FD_Ground_Tiles_144: -346881489
+      FD_Ground_Tiles_145: -1066371244
+      FD_Ground_Tiles_146: 305891432
+      FD_Ground_Tiles_147: 469188616
+      FD_Ground_Tiles_148: 2041775601
+      FD_Ground_Tiles_149: 24132256
+      FD_Ground_Tiles_15: 2075013287
+      FD_Ground_Tiles_150: 1897925275
+      FD_Ground_Tiles_151: -379782227
+      FD_Ground_Tiles_152: 1566554899
+      FD_Ground_Tiles_153: -46698502
+      FD_Ground_Tiles_154: -1199135789
+      FD_Ground_Tiles_155: 73265265
+      FD_Ground_Tiles_156: -651082362
+      FD_Ground_Tiles_157: 1619707871
+      FD_Ground_Tiles_158: 1920632401
+      FD_Ground_Tiles_159: -1640255915
+      FD_Ground_Tiles_16: -2118080137
+      FD_Ground_Tiles_160: -837829187
+      FD_Ground_Tiles_161: 1556217532
+      FD_Ground_Tiles_162: -177048474
+      FD_Ground_Tiles_163: 991909271
+      FD_Ground_Tiles_164: 216190194
+      FD_Ground_Tiles_165: 1100443381
+      FD_Ground_Tiles_166: -1543574444
+      FD_Ground_Tiles_167: 313130319
+      FD_Ground_Tiles_168: -566689636
+      FD_Ground_Tiles_169: -729177970
+      FD_Ground_Tiles_17: -1729275230
+      FD_Ground_Tiles_170: 1328921292
+      FD_Ground_Tiles_171: -17501716
+      FD_Ground_Tiles_172: -703165695
+      FD_Ground_Tiles_173: -1597336121
+      FD_Ground_Tiles_174: 75129219
+      FD_Ground_Tiles_175: 986882470
+      FD_Ground_Tiles_176: -1193052308
+      FD_Ground_Tiles_177: 1659819855
+      FD_Ground_Tiles_178: 1436737154
+      FD_Ground_Tiles_179: 765230630
+      FD_Ground_Tiles_18: 815090021
+      FD_Ground_Tiles_180: -1417181473
+      FD_Ground_Tiles_181: -1040934370
+      FD_Ground_Tiles_182: 237732973
+      FD_Ground_Tiles_183: 1822261006
+      FD_Ground_Tiles_184: -357391521
+      FD_Ground_Tiles_185: 127085907
+      FD_Ground_Tiles_186: 2086342976
+      FD_Ground_Tiles_187: 1357702354
+      FD_Ground_Tiles_188: 246125059
+      FD_Ground_Tiles_189: 1171779679
+      FD_Ground_Tiles_19: 1325976345
+      FD_Ground_Tiles_190: 1556977488
+      FD_Ground_Tiles_191: -1955601086
+      FD_Ground_Tiles_192: -2113117279
+      FD_Ground_Tiles_193: 977238412
+      FD_Ground_Tiles_194: 975180990
+      FD_Ground_Tiles_195: 1672722479
+      FD_Ground_Tiles_196: 197821885
+      FD_Ground_Tiles_197: 531078269
+      FD_Ground_Tiles_198: 1311940115
+      FD_Ground_Tiles_199: -1302229454
+      FD_Ground_Tiles_2: 1298749777
+      FD_Ground_Tiles_20: -1321795549
+      FD_Ground_Tiles_200: -59611897
+      FD_Ground_Tiles_201: -826296834
+      FD_Ground_Tiles_202: 999609966
+      FD_Ground_Tiles_203: -608849524
+      FD_Ground_Tiles_204: 175120804
+      FD_Ground_Tiles_205: 607032106
+      FD_Ground_Tiles_206: 227149673
+      FD_Ground_Tiles_207: -1091042936
+      FD_Ground_Tiles_208: -1365748989
+      FD_Ground_Tiles_209: -1841610744
+      FD_Ground_Tiles_21: 2132482761
+      FD_Ground_Tiles_210: 521253906
+      FD_Ground_Tiles_211: 328605803
+      FD_Ground_Tiles_212: -764163764
+      FD_Ground_Tiles_213: -620366809
+      FD_Ground_Tiles_214: 1997812815
+      FD_Ground_Tiles_215: 952211724
+      FD_Ground_Tiles_216: 1487701070
+      FD_Ground_Tiles_217: -1155094691
+      FD_Ground_Tiles_218: -764920329
+      FD_Ground_Tiles_219: 1024575855
+      FD_Ground_Tiles_22: -1182014697
+      FD_Ground_Tiles_220: -2045904572
+      FD_Ground_Tiles_221: 1083582561
+      FD_Ground_Tiles_222: -221714641
+      FD_Ground_Tiles_223: -1960661651
+      FD_Ground_Tiles_224: 554015650
+      FD_Ground_Tiles_225: -172308447
+      FD_Ground_Tiles_226: 1276245829
+      FD_Ground_Tiles_227: -1570562948
+      FD_Ground_Tiles_228: 1034412264
+      FD_Ground_Tiles_229: -522581399
+      FD_Ground_Tiles_23: -817789052
+      FD_Ground_Tiles_230: 625929576
+      FD_Ground_Tiles_231: 303313590
+      FD_Ground_Tiles_232: -603301949
+      FD_Ground_Tiles_233: 366210555
+      FD_Ground_Tiles_234: -1323058183
+      FD_Ground_Tiles_235: -1137856945
+      FD_Ground_Tiles_236: -589812041
+      FD_Ground_Tiles_237: -354909702
+      FD_Ground_Tiles_238: 379630950
+      FD_Ground_Tiles_239: 1573856351
+      FD_Ground_Tiles_24: -143479069
+      FD_Ground_Tiles_240: 1976950191
+      FD_Ground_Tiles_241: 783700900
+      FD_Ground_Tiles_242: -679444188
+      FD_Ground_Tiles_243: 533594741
+      FD_Ground_Tiles_244: -168082363
+      FD_Ground_Tiles_245: -158595557
+      FD_Ground_Tiles_246: 1872766186
+      FD_Ground_Tiles_247: 731361312
+      FD_Ground_Tiles_248: 1564567650
+      FD_Ground_Tiles_249: 1406243363
+      FD_Ground_Tiles_25: -1738125618
+      FD_Ground_Tiles_250: -90330515
+      FD_Ground_Tiles_251: -1624986149
+      FD_Ground_Tiles_252: -488729992
+      FD_Ground_Tiles_253: 619417141
+      FD_Ground_Tiles_254: 1310251187
+      FD_Ground_Tiles_255: -2020397531
+      FD_Ground_Tiles_256: 1325294206
+      FD_Ground_Tiles_257: 1175916144
+      FD_Ground_Tiles_258: 1763477490
+      FD_Ground_Tiles_259: 1663749158
+      FD_Ground_Tiles_26: -648907576
+      FD_Ground_Tiles_260: -1906727578
+      FD_Ground_Tiles_261: -1397944585
+      FD_Ground_Tiles_262: -752885099
+      FD_Ground_Tiles_263: 666715358
+      FD_Ground_Tiles_264: 1625006010
+      FD_Ground_Tiles_265: -1527412908
+      FD_Ground_Tiles_266: 1570424802
+      FD_Ground_Tiles_267: 1881214733
+      FD_Ground_Tiles_268: 541309943
+      FD_Ground_Tiles_269: 652525132
+      FD_Ground_Tiles_27: 1068372471
+      FD_Ground_Tiles_270: 2110746375
+      FD_Ground_Tiles_28: -834920639
+      FD_Ground_Tiles_29: 208295710
+      FD_Ground_Tiles_3: -1354961660
+      FD_Ground_Tiles_30: -2119022784
+      FD_Ground_Tiles_31: -1398585281
+      FD_Ground_Tiles_32: 1512132783
+      FD_Ground_Tiles_33: -726668951
+      FD_Ground_Tiles_34: 351994585
+      FD_Ground_Tiles_35: 1095132789
+      FD_Ground_Tiles_36: 755769451
+      FD_Ground_Tiles_37: 1693925265
+      FD_Ground_Tiles_38: -543737388
+      FD_Ground_Tiles_39: 1114876238
+      FD_Ground_Tiles_4: 1911677425
+      FD_Ground_Tiles_40: -529720186
+      FD_Ground_Tiles_41: -1033077460
+      FD_Ground_Tiles_42: -402876148
+      FD_Ground_Tiles_43: -1732961929
+      FD_Ground_Tiles_44: 254275873
+      FD_Ground_Tiles_45: -100837972
+      FD_Ground_Tiles_46: -519799482
+      FD_Ground_Tiles_47: 51854894
+      FD_Ground_Tiles_48: -269353277
+      FD_Ground_Tiles_49: 288475776
+      FD_Ground_Tiles_5: 498018910
+      FD_Ground_Tiles_50: -604406322
+      FD_Ground_Tiles_51: 1500693444
+      FD_Ground_Tiles_52: 1325417851
+      FD_Ground_Tiles_53: 525085732
+      FD_Ground_Tiles_54: -1594680166
+      FD_Ground_Tiles_55: 320280649
+      FD_Ground_Tiles_56: -306016734
+      FD_Ground_Tiles_57: -670390242
+      FD_Ground_Tiles_58: -401993104
+      FD_Ground_Tiles_59: 513112064
+      FD_Ground_Tiles_6: 1120047291
+      FD_Ground_Tiles_60: -2070319366
+      FD_Ground_Tiles_61: 395805565
+      FD_Ground_Tiles_62: 1941039307
+      FD_Ground_Tiles_63: -266031631
+      FD_Ground_Tiles_64: -2019354546
+      FD_Ground_Tiles_65: -1810901396
+      FD_Ground_Tiles_66: 454566677
+      FD_Ground_Tiles_67: 1532047958
+      FD_Ground_Tiles_68: 1771050251
+      FD_Ground_Tiles_69: -1300522789
+      FD_Ground_Tiles_7: 2066958751
+      FD_Ground_Tiles_70: 1651418914
+      FD_Ground_Tiles_71: 989162782
+      FD_Ground_Tiles_72: -1238972975
+      FD_Ground_Tiles_73: -167420423
+      FD_Ground_Tiles_74: -775411843
+      FD_Ground_Tiles_75: 2077351065
+      FD_Ground_Tiles_76: -1354234177
+      FD_Ground_Tiles_77: -504962794
+      FD_Ground_Tiles_78: -967092893
+      FD_Ground_Tiles_79: 351237124
+      FD_Ground_Tiles_8: 12551775
+      FD_Ground_Tiles_80: 368720365
+      FD_Ground_Tiles_81: 2061283708
+      FD_Ground_Tiles_82: -1319044299
+      FD_Ground_Tiles_83: 1146221141
+      FD_Ground_Tiles_84: -398022759
+      FD_Ground_Tiles_85: -137242473
+      FD_Ground_Tiles_86: -1991554658
+      FD_Ground_Tiles_87: 443661034
+      FD_Ground_Tiles_88: -1199883279
+      FD_Ground_Tiles_89: 608901358
+      FD_Ground_Tiles_9: -707126959
+      FD_Ground_Tiles_90: -1926533793
+      FD_Ground_Tiles_91: 1090907207
+      FD_Ground_Tiles_92: 27548288
+      FD_Ground_Tiles_93: 90168192
+      FD_Ground_Tiles_94: -196166376
+      FD_Ground_Tiles_95: 946261524
+      FD_Ground_Tiles_96: -1078587178
+      FD_Ground_Tiles_97: -113427166
+      FD_Ground_Tiles_98: 1366892800
+      FD_Ground_Tiles_99: -354058756
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

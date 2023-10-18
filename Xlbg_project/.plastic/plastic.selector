@@ -1,0 +1,4 @@
+repository "Xlbg_project@qwqdagejiangyou@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
